@@ -1,51 +1,51 @@
 {
-  "filename": "ai_papers_weekly_20260130.md",
-  "date": "2026-01-30T20:11:21.492687",
+  "filename": "ai_papers_weekly_20260201.md",
+  "date": "2026-02-01T15:02:21.145375",
   "paper_count": 5,
   "categories": [
     "cs.AI"
   ],
   "avg_score": 25.0,
   "top_paper": {
-    "title": "DynaWeb: Model-Based Reinforcement Learning of Web Agents",
+    "title": "Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems",
     "score": 25,
-    "url": "https://arxiv.org/abs/2601.22149v1"
+    "url": "https://arxiv.org/abs/2601.21963v1"
   },
   "papers": [
     {
       "rank": 1,
-      "title": "DynaWeb: Model-Based Reinforcement Learning of Web Agents",
+      "title": "Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.22149v1"
+      "url": "https://arxiv.org/abs/2601.21963v1"
     },
     {
       "rank": 2,
-      "title": "Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers",
+      "title": "ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.22139v1"
+      "url": "https://arxiv.org/abs/2601.21947v1"
     },
     {
       "rank": 3,
-      "title": "Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models",
+      "title": "Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.22060v1"
+      "url": "https://arxiv.org/abs/2601.21937v1"
     },
     {
       "rank": 4,
-      "title": "Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models",
+      "title": "Self-Compression of Chain-of-Thought via Multi-Agent Reinforcement Learning",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.22035v1"
+      "url": "https://arxiv.org/abs/2601.21919v1"
     },
     {
       "rank": 5,
-      "title": "CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty",
+      "title": "From Meta-Thought to Execution: Cognitively Aligned Post-Training for Generalizable and Reliable LLM Reasoning",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.22027v1"
+      "url": "https://arxiv.org/abs/2601.21909v1"
     }
   ]
 }

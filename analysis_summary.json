@@ -1,51 +1,51 @@
 {
-  "filename": "ai_papers_weekly_20260201.md",
-  "date": "2026-02-01T15:02:21.145375",
+  "filename": "ai_papers_weekly_20260206.md",
+  "date": "2026-02-06T19:02:34.569466",
   "paper_count": 5,
   "categories": [
     "cs.AI"
   ],
   "avg_score": 25.0,
   "top_paper": {
-    "title": "Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems",
+    "title": "DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching",
     "score": 25,
-    "url": "https://arxiv.org/abs/2601.21963v1"
+    "url": "https://arxiv.org/abs/2602.06039v1"
   },
   "papers": [
     {
       "rank": 1,
-      "title": "Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems",
+      "title": "DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.21963v1"
+      "url": "https://arxiv.org/abs/2602.06039v1"
     },
     {
       "rank": 2,
-      "title": "ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models",
+      "title": "Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.21947v1"
+      "url": "https://arxiv.org/abs/2602.06025v1"
     },
     {
       "rank": 3,
-      "title": "Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities",
+      "title": "AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.21937v1"
+      "url": "https://arxiv.org/abs/2602.06008v1"
     },
     {
       "rank": 4,
-      "title": "Self-Compression of Chain-of-Thought via Multi-Agent Reinforcement Learning",
+      "title": "RISE-Video: Can Video Generators Decode Implicit World Rules?",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.21919v1"
+      "url": "https://arxiv.org/abs/2602.05986v1"
     },
     {
       "rank": 5,
-      "title": "From Meta-Thought to Execution: Cognitively Aligned Post-Training for Generalizable and Reliable LLM Reasoning",
+      "title": "EuroLLM-22B: Technical Report",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2601.21909v1"
+      "url": "https://arxiv.org/abs/2602.05879v1"
     }
   ]
 }

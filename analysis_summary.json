@@ -1,51 +1,51 @@
 {
-  "filename": "ai_papers_weekly_20260206.md",
-  "date": "2026-02-06T19:02:34.569466",
+  "filename": "ai_papers_weekly_20260213.md",
+  "date": "2026-02-13T19:17:47.523688",
   "paper_count": 5,
   "categories": [
     "cs.AI"
   ],
   "avg_score": 25.0,
   "top_paper": {
-    "title": "DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching",
+    "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
     "score": 25,
-    "url": "https://arxiv.org/abs/2602.06039v1"
+    "url": "https://arxiv.org/abs/2602.12279v1"
   },
   "papers": [
     {
       "rank": 1,
-      "title": "DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching",
+      "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.06039v1"
+      "url": "https://arxiv.org/abs/2602.12279v1"
     },
     {
       "rank": 2,
-      "title": "Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory",
+      "title": "Think like a Scientist: Physics-guided LLM Agent for Equation Discovery",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.06025v1"
+      "url": "https://arxiv.org/abs/2602.12259v1"
     },
     {
       "rank": 3,
-      "title": "AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions",
+      "title": "ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.06008v1"
+      "url": "https://arxiv.org/abs/2602.12247v1"
     },
     {
       "rank": 4,
-      "title": "RISE-Video: Can Video Generators Decode Implicit World Rules?",
+      "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.05986v1"
+      "url": "https://arxiv.org/abs/2602.12205v1"
     },
     {
       "rank": 5,
-      "title": "EuroLLM-22B: Technical Report",
+      "title": "Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.05879v1"
+      "url": "https://arxiv.org/abs/2602.12196v1"
     }
   ]
 }

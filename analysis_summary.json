@@ -1,51 +1,51 @@
 {
-  "filename": "ai_papers_weekly_20260213.md",
-  "date": "2026-02-13T19:17:47.523688",
+  "filename": "ai_papers_weekly_20260220.md",
+  "date": "2026-02-20T19:33:40.481318",
   "paper_count": 5,
   "categories": [
     "cs.AI"
   ],
   "avg_score": 25.0,
   "top_paper": {
-    "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
+    "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
     "score": 25,
-    "url": "https://arxiv.org/abs/2602.12279v1"
+    "url": "https://arxiv.org/abs/2602.17645v1"
   },
   "papers": [
     {
       "rank": 1,
-      "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
+      "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.12279v1"
+      "url": "https://arxiv.org/abs/2602.17645v1"
     },
     {
       "rank": 2,
-      "title": "Think like a Scientist: Physics-guided LLM Agent for Equation Discovery",
+      "title": "Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.12259v1"
+      "url": "https://arxiv.org/abs/2602.17616v1"
     },
     {
       "rank": 3,
-      "title": "ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction",
+      "title": "ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.12247v1"
+      "url": "https://arxiv.org/abs/2602.17560v1"
     },
     {
       "rank": 4,
-      "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
+      "title": "MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.12205v1"
+      "url": "https://arxiv.org/abs/2602.17550v1"
     },
     {
       "rank": 5,
-      "title": "Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education",
+      "title": "Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2602.12196v1"
+      "url": "https://arxiv.org/abs/2602.17544v1"
     }
   ]
 }

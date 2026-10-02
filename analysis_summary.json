@@ -1,51 +1,51 @@
 {
-  "filename": "ai_papers_weekly_20260925.md",
-  "date": "2026-09-25T18:55:01.410152",
+  "filename": "ai_papers_weekly_20261002.md",
+  "date": "2026-10-02T19:36:07.317268",
   "paper_count": 5,
   "categories": [
-    "cs.CL"
+    "cs.AI"
   ],
   "avg_score": 25.0,
   "top_paper": {
-    "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+    "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
     "score": 25,
-    "url": "https://arxiv.org/abs/2609.30238v1"
+    "url": "https://arxiv.org/abs/2610.02117v1"
   },
   "papers": [
     {
       "rank": 1,
-      "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
       "score": 25,
-      "category": "cs.CL",
-      "url": "https://arxiv.org/abs/2609.30238v1"
+      "category": "cs.AI",
+      "url": "https://arxiv.org/abs/2610.02117v1"
     },
     {
       "rank": 2,
-      "title": "GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI",
+      "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
       "score": 25,
-      "category": "cs.CL",
-      "url": "https://arxiv.org/abs/2609.30147v1"
+      "category": "cs.AI",
+      "url": "https://arxiv.org/abs/2610.02039v1"
     },
     {
       "rank": 3,
-      "title": "Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models",
+      "title": "SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL",
       "score": 25,
-      "category": "cs.CL",
-      "url": "https://arxiv.org/abs/2609.30048v1"
+      "category": "cs.AI",
+      "url": "https://arxiv.org/abs/2610.02023v1"
     },
     {
       "rank": 4,
-      "title": "MILO: Efficient Many-shot In-Context Learning with Block-wise Low-rank Compression",
+      "title": "Counting Moves, Weighing Voices: Bayesian Dialectical Argumentation for Calibrated Multi-LLM Councils under Persistent Adversaries",
       "score": 25,
-      "category": "cs.CL",
-      "url": "https://arxiv.org/abs/2609.29913v1"
+      "category": "cs.AI",
+      "url": "https://arxiv.org/abs/2610.02005v1"
     },
     {
       "rank": 5,
-      "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+      "title": "Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents",
       "score": 25,
-      "category": "cs.CL",
-      "url": "https://arxiv.org/abs/2609.29845v1"
+      "category": "cs.AI",
+      "url": "https://arxiv.org/abs/2610.02002v1"
     }
   ]
 }

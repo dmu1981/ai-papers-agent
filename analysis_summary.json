@@ -1,51 +1,51 @@
 {
-  "filename": "ai_papers_weekly_20261016.md",
-  "date": "2026-10-16T18:41:21.146541",
+  "filename": "ai_papers_weekly_20261023.md",
+  "date": "2026-10-23T19:29:15.234529",
   "paper_count": 5,
   "categories": [
     "cs.AI"
   ],
   "avg_score": 25.0,
   "top_paper": {
-    "title": "Discovering state-of-the-art quantum circuits with large language models",
+    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
     "score": 25,
-    "url": "https://arxiv.org/abs/2610.22367v1"
+    "url": "https://arxiv.org/abs/2610.31657v1"
   },
   "papers": [
     {
       "rank": 1,
-      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2610.22367v1"
+      "url": "https://arxiv.org/abs/2610.31657v1"
     },
     {
       "rank": 2,
-      "title": "Designing Transformers for Continuous Diffusion Language Models",
+      "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2610.22330v1"
+      "url": "https://arxiv.org/abs/2610.31579v1"
     },
     {
       "rank": 3,
-      "title": "Learning to Steer LLM Agents and Multi-Agent Systems",
+      "title": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2610.22316v1"
+      "url": "https://arxiv.org/abs/2610.31274v1"
     },
     {
       "rank": 4,
-      "title": "AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions",
+      "title": "Trion-1: Unifying Language, Protein Sequence, and Structure with Diffusion Language Models",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2610.22298v1"
+      "url": "https://arxiv.org/abs/2610.31215v1"
     },
     {
       "rank": 5,
-      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "title": "Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models",
       "score": 25,
       "category": "cs.AI",
-      "url": "https://arxiv.org/abs/2610.22273v1"
+      "url": "https://arxiv.org/abs/2610.31202v1"
     }
   ]
 }
